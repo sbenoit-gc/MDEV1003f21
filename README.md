@@ -5,5 +5,5 @@
 A github repository for the in class demonstrations
 
 ## Usage
-Clone, or download the zip, to a local directory. Open un Unreal Engine 4.26 or newer
+Clone, or download the zip, to a local directory. Open in Unreal Engine 4.26 or newer
 
